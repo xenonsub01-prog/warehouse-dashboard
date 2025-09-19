@@ -1,7 +1,0 @@
-OrderID,OrderDate,Warehouse,Customer,SKU,Qty,Status,Priority,InvoiceNo,UpdatedBy,UpdatedAt
-1001,2025-09-10,VIC,Omega Tools,BAT-12V,10,Open,High,,,
-1002,2025-09-11,VIC,Delta Auto,BAT-24V,5,In Progress,Normal,,,
-1003,2025-09-09,NSW,RoadPro,BAT-12V,7,Open,High,,,
-1004,2025-09-12,NSW,PowerMax,BAT-AGM,4,Open,Low,,,
-1005,2025-09-08,SA,FastParts,BAT-12V,12,Open,Normal,,,
-1006,2025-09-12,SA,AutoHub,BAT-AGM,3,In Progress,Low,,,
